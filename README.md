@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=666666&text=Sol%20Han&animation=fadeIn)
 <h2>Skills</h2>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=htm15&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+
