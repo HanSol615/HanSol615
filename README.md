@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Sol%20Han&animation=fadeIn)
 <h2 align="center"><b>🛠 Tech Stack 🛠</b></h2>
+<p align="center"><b>Includes what I'm currently learning...</b></p>
 <br>
 <p align="center">
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
