@@ -28,6 +28,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-sqare&logo=git&logoColor=white">
 </p>
 
-![HanSol615's github stats](https://github-readme-stats.vercel.app/api?username=HanSol615&show_icons=true)
-[![HanSol615's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HanSol615&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/HanSol615)
 ![HanSol615's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanSol615&show_icons=true&theme=radical)
